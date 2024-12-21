@@ -1,38 +1,32 @@
 <?php
 
-function compressResult(...$arg){
+// Compress multiple arguments into a single hyphen-separated string
+function compressResult(...$arg) {
     $result = [];
-    foreach($arg as $value){
-        if($value){
+    foreach ($arg as $value) {
+        if ($value) {
             $result[] = $value;
         }
     }
-    return implode('-',$result);
+    return implode('-', $result);
 }
-
-
-
 
 /*-------------------------X-----------------------------*/
 
-
-
-
-function isResult($result){
-    if(preg_match('/(\d{3}+)\-(\d{2}+)\-(\d{3}+)$/', $result)){
+// Check if a given result matches specific patterns
+function isResult($result) {
+    if (preg_match('/(\d{3})-(\d{2})-(\d{3})$/', $result)) {
         return true;
-    }elseif(preg_match('/(\d{3}+)\-(\d{1}+)$/', $result)){
+    } elseif (preg_match('/(\d{3})-(\d{1})$/', $result)) {
         return true;
-    }else{
+    } else {
         return false;
     }
 }
 
-
-
 /*-------------------------X-----------------------------*/
 
-
+// Load environment variables from a .env file
 function loadEnv($path) {
     if (!file_exists($path)) {
         throw new Exception("The .env file does not exist.");
@@ -51,19 +45,24 @@ function loadEnv($path) {
 
         // Remove surrounding quotes if present
         $value = trim($value, '"\'');
-        
+
         // Set the environment variable
         putenv("$key=$value");
         $_ENV[$key] = $value;
     }
 }
 
-
-function getapiDetails(){
+// Retrieve API details from environment variables
+function getapiDetails() {
     loadEnv(__DIR__ . '/.env');
     $apiKey = htmlspecialchars(getenv('api_key'));
     $domain_key = htmlspecialchars(getenv('domain_key'));
     $api_url = htmlspecialchars(getenv('api_url'));
-    return ['apikey'=>$apiKey, 'domain_key'=>$domain_key, 'api_url'=>$api_url];
+    return [
+        'apikey' => $apiKey,
+        'domain_key' => $domain_key,
+        'api_url' => $api_url
+    ];
 }
+
 ?>

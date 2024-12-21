@@ -43,7 +43,7 @@ for direct install
 
 ## Video Docs
 
-- **Youtube Links** [Satta Matka API](https://youtu.be/fXuS5Cl7nm0?list=PLmKbsQs19H9C-4gyUg9rEtkJMS-2hNLlc)
+- **[Satta Matka API](https://youtu.be/fXuS5Cl7nm0?list=PLmKbsQs19H9C-4gyUg9rEtkJMS-2hNLlc)**
 
 ## Support
 

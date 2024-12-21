@@ -9,7 +9,7 @@ Matka API provides a reliable and automated solution for fetching real-time resu
 - **Satta like Disawar Auto Result API**: Access results for games like Disawar automatically.
 - **Teer Game Auto Result API**: Retrieve the latest Teer game results.
 
-> **Note:** This SDK is currently only for the Matka Auto Result API. We will be adding support for other games soon.
+> **Note:** This SDK provides Satta Matka games like Kalyan, Main Bazar, Milan Day, and Rajdhani Night, as well as Satta games like Disawar, Gali, and Faridabad with accurate results.
 
 ## Getting Started
 

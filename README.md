@@ -43,7 +43,8 @@ for direct install
 
 ## Video Docs
 
-- **[Satta Matka API](https://youtu.be/fXuS5Cl7nm0?list=PLmKbsQs19H9C-4gyUg9rEtkJMS-2hNLlc)**
+- **[Satta Matka API | Free demo and free integrations](https://youtu.be/fXuS5Cl7nm0?list=PLmKbsQs19H9C-4gyUg9rEtkJMS-2hNLlc)**
+- **[Matka API, How to setup Part 2](https://youtu.be/CuZ50XpMapo?list=PLmKbsQs19H9C-4gyUg9rEtkJMS-2hNLlc)**
 
 ## Support
 

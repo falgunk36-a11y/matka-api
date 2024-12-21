@@ -41,6 +41,10 @@ for direct install
 
 > **Congratulations!** You have successfully set up the Matka API.
 
+## Video Docs
+Satta Matka API | Free demo and free integrations
+https://youtu.be/fXuS5Cl7nm0?list=PLmKbsQs19H9C-4gyUg9rEtkJMS-2hNLlc
+
 ## Support
 
 If you need help or have any questions, please feel free to contact us:

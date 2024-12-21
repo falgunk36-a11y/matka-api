@@ -17,6 +17,7 @@ providers. We also offer a variety of other games.
 9 - American Roulette
 10 - Ludo Tournaments
 11 - Dragon vs Tiger (coming soon) 
+12 - Chicken cross Road
 
 
 
@@ -270,3 +271,28 @@ https://demo.matka.club/download
 
 Demo video 
 https://youtu.be/NUiXlwBSeQA
+
+*Chicken cross Road*
+Price - 80,000
+Advance - 20,000
+Rest amount - 60,000 (After Delivery)
+
+-We provide-
+- User application 
+- Web Admin
+- Application Download page 
+
+*Fetures*
+- Automatic Crash point 
+- profit set using admin
+
+*APP Demo*
+https://demo.matka.club/download
+
+*Blog*
+https://matka.club/chicken-road-game
+
+*Video*
+Full video cooming soon 
+https://youtu.be/dP3pHRlsr7I
+https://youtu.be/e6BsFNQSpug

@@ -18,7 +18,8 @@ providers. We also offer a variety of other games.
 10 - Ludo Tournaments
 11 - Dragon vs Tiger (coming soon) 
 12 - Chicken Cross road game
-
+13 - Dpboss website develop
+14 - Satta website develop
 
 
 *Matka Game*
@@ -296,3 +297,55 @@ https://demo.matka.club/download
 
 Demo video 
 https://youtu.be/e6BsFNQSpug
+
+------------------------------------------------------
+
+*Dpboss* 🧬development details🧬
+
+Price - 12,400
+advance -4,000
+After deliver - 8,400
+
+-We Provide-
+
+- Domain (if below ₹499)
+- Hosting - 1 month free
+- Support - 1 month free
+- Detailed video documentation
+- Security - hack-free
+- SSL - 1 month free
+- Auto result
+
+Demo link
+https://www.dpboss.solutions
+
+Demo video
+https://www.youtube.com/playlist?list=PLmKbsQs19H9CdN9FegWURkK9_nnFmTA7w
+
+
+------------------------------------------------------
+
+*Gali disawar* (Satta Website)
+Price = 12,400
+Advance = 4,000
+Rest amount - 8,000 (After Delivery)
+Deliver within 1 day
+
+-We provide-
+- Website
+- Admin
+- Support
+- Maintenance
+
+
+*Demo*
+https://www.sattaresult.me
+
+Admin Demo
+https://youtu.be/IHkuqBMTt0c
+
+*Note* we charge 1,000 rupees per month for Maintenance fees.
+
+you want ? Disawar satta play website ?
+👇🏻👇🏻👇🏻
+type *3*

@@ -42,12 +42,7 @@ Rest amount - 35,000 (After Delivery)
 - login whatsapp alerts
 
 *APP Demo*
-Only Matka app demo 
 https://demoff.matka.club/download
-
-All game demo
-https://demo.matka.club/download
-
 
 *Video Demo*
 https://youtu.be/HCGyfulnjl4?list=PLmKbsQs19H9CpLkQCYXdRrKaNZU_QoI3Q

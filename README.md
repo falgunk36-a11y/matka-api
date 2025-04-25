@@ -13,7 +13,7 @@ Additionally, you can download the complete Postman collection to test all API e
 
 ## 📡 What We Provide
 🎯 **Matka API**
-Fast and reliable Matka result integration for all major markets.
+covers all major markets listed on DPBoss and similar platforms, offering fast and reliable result integration.
 
 🌟 **Starline / Kolkata Fatafat** Auto Live Result
 Get real-time auto results for Starline and Kolkata Fatafat games.

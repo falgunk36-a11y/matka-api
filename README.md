@@ -3,14 +3,6 @@
 **Matka API** offers you a fast, reliable service along with an instant integration kit. You can easily install the simple kit, and a demo code will also be provided to you. Remote support will be available to assist you during the integration process.
 Additionally, you can download the complete Postman collection to test all API endpoints live.
 
-## Features
-
-- **Satta Matka Auto Result API**: Automatically fetch the latest Satta Matka results.
-- **Starline Auto Result API**: Get real-time results for Starline games.
-- **Satta like Disawar Auto Result API**: Access results for games like Disawar automatically.
-- **Teer Game Auto Result API**: Retrieve the latest Teer game results.
-
-
 ## 📡 What We Provide
 🎯 **Matka API**
 covers all major markets listed on DPBoss and similar platforms, offering fast and reliable result integration.

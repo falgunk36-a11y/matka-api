@@ -10,6 +10,20 @@ Additionally, you can download the complete Postman collection to test all API e
 - **Satta like Disawar Auto Result API**: Access results for games like Disawar automatically.
 - **Teer Game Auto Result API**: Retrieve the latest Teer game results.
 
+
+## 📡 What We Provide
+🎯 **Matka API**
+Fast and reliable Matka result integration for all major markets.
+
+🌟 **Starline / Kolkata Fatafat** Auto Live Result
+Get real-time auto results for Starline and Kolkata Fatafat games.
+
+🏆 **Satta Auto Result**
+Live auto results for popular Satta games like Gali, Disawar, and more.
+
+🏹 **Teer Auto Result**
+Instant results for Teer games including Shillong Teer, Khanapara Teer, Juwai Teer, and Night Teer.
+
 > **Note:** This SDK provides Satta Matka games like Kalyan, Main Bazar, Milan Day, and Rajdhani Night, as well as Satta games like Disawar, Gali, and Faridabad with accurate results.
 
 [![Satta Matka API | Free demo and free integrations](https://img.youtube.com/vi/fXuS5Cl7nm0/0.jpg)](https://www.youtube.com/watch?v=fXuS5Cl7nm0&list=PLmKbsQs19H9C-4gyUg9rEtkJMS-2hNLlc "Satta Matka API | Free demo and free integrations")

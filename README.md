@@ -1,6 +1,7 @@
-# Matka API - Fast & secure 
+# Matka API - Fast, Secure & Free Trial Available
 
-Matka API provides a reliable and automated solution for fetching real-time results for various Satta Matka games. Our API is designed to deliver accurate and fast results for multiple popular games.
+**Matka API** offers you a fast, reliable service along with an instant integration kit. You can easily install the simple kit, and a demo code will also be provided to you. Remote support will be available to assist you during the integration process.
+Additionally, you can download the complete Postman collection to test all API endpoints live.
 
 ## Features
 

@@ -3,6 +3,8 @@
 **Matka API** offers you a fast, reliable service along with an instant integration kit. You can easily install the simple kit, and a demo code will also be provided to you. Remote support will be available to assist you during the integration process.
 Additionally, you can download the complete Postman collection to test all API endpoints live.
 
+[![Matka Result](https://www.matkaapi.com/images/matka-result.png)](https://www.postman.com/gowebs/satta-matka-auto-result-api/)
+
 ## 📡 What We Provide
 🎯 **Matka API**
 covers all major markets listed on DPBoss and similar platforms, offering fast and reliable result integration.

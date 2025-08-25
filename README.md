@@ -51,6 +51,16 @@ for direct install
 
 > **Congratulations!** You have successfully set up the Matka API.
 
+## Upload Satta Old Chart in Bulk
+
+We provide a page: `satta/satta_old_chart_update.php`
+
+**Step 1:** Add your **database connection**  
+**Step 2:** Add your **API details**  
+**Step 3:** Go to `https://yourwebsite.com/satta/satta_old_chart_update.php`, select a **game**, and **insert/update** old Satta results.
+
+Supports Satta games like **Gali** and **Disawar**
+
 ## Video Docs
 
 - **<a href="https://youtu.be/fXuS5Cl7nm0?list=PLmKbsQs19H9C-4gyUg9rEtkJMS-2hNLlc" target="_blank">Satta Matka API | Free demo and free integrations</a>**

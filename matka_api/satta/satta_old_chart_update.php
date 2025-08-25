@@ -1,6 +1,7 @@
 <?php
-// fetch_insert_results.php
 // Bulk import results from Matka API into satta_result for a selected game.
+// dev by www.gowebs.in
+// Contact 858585814444 ,  8585858844 
 
 declare(strict_types=1);
 date_default_timezone_set('Asia/Kolkata');
